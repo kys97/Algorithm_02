@@ -1,5 +1,7 @@
 # Algorithm_02
 
+
+
 ## First CNN Model
 ### 1. Model
 ![image](https://user-images.githubusercontent.com/81239623/121805409-239b5b00-cc86-11eb-9007-020c8d455b27.png)
